@@ -1,0 +1,10 @@
+.img-size {
+  max-height: 510px;
+  max-width: 753px;
+}
+.radius {
+  border-radius: 20px;
+} 
+ img{
+  border-radius: 15px 15px 0 0;
+}
